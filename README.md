@@ -18,5 +18,7 @@ Below you will find a guide to help you get started and teach you how to clone a
 Marvel Clicky Game is deployed to GitHub Pages. Please check it out [here] (https://nbardoi.github.io/marvel-clicky-game/).
 
 ## Built With:
-- React.js
+- React
+- HTML
+- Javascript
 - Bootstrap - CSS Framework
