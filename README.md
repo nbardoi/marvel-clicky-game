@@ -1,1 +1,2 @@
-# marvel-clicky-game
+# Marvel Clicky Game
+
